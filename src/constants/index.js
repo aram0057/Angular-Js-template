@@ -24,35 +24,23 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
-    position: 'Marketing Director at GreenLeaf',
-    img: 'assets/review1.png',
-    review:
-      '.',
+    title: 'Frontend Development',
+    description: 'Proficient in building responsive and user-friendly interfaces using React and Redux. Experienced in creating seamless user experiences with a focus on design and usability, leveraging HTML, CSS, and JavaScript to develop interactive web applications.',
   },
   {
     id: 2,
-    name: 'Mark Rogers',
-    position: 'Founder of TechGear Shop',
-    img: 'assets/review2.png',
-    review:
-      'essional! Fantastic work.',
+    title: 'Backend Development',
+    description: 'Skilled in developing robust backend solutions using .NET Core and C#. Experienced in working with SQL and NoSQL databases to manage data effectively. Familiar with API integration, microservices architecture, and implementing CI/CD pipelines for automated deployments.',
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
-    img: 'assets/review3.png',
-    review:
-      'lem-solving abilities are outstanding.',
+    title: 'UI/UX Design',
+    description: 'Passionate about creating intuitive user interfaces and enhancing user experiences through thoughtful design principles. Proficient in wireframing, prototyping, and conducting user research to inform design decisions, ensuring that products are both functional and aesthetically pleasing.',
   },
   {
     id: 4,
-    name: 'Ether Smith',
-    position: 'CEO of BrightStar Enterprises',
-    img: 'assets/review4.png',
-    review:
-      'His skills in both frontend backend dev are top-notch.',
+    title: 'Artificial Intelligence',
+    description: 'Experienced in developing AI models for predictive analytics and data-driven decision-making. Familiar with machine learning frameworks and libraries such as TensorFlow and scikit-learn to build and deploy intelligent applications that enhance user engagement and operational efficiency.',
   },
 ];
 
