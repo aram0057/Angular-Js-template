@@ -52,7 +52,7 @@ export const clientReviews = [
     position: 'CEO of BrightStar Enterprises',
     img: 'assets/review4.png',
     review:
-      'His skills in both frontend backend dev are top-notch.',
+      'nd backend dev are top-notch.',
   },
 ];
 
