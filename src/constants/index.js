@@ -48,7 +48,7 @@ export const clientReviews = [
   },
   {
     id: 4,
-    name: '',
+    name: 'Project Management',
     position: 'CEO of BrightStar Enterprises',
     img: 'assets/review4.png',
     review:
