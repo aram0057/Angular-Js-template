@@ -25,34 +25,34 @@ export const clientReviews = [
   {
     id: 1,
     name: 'Frontend Dev',
-    position: '',
+    position: '3 years experience ',
     img: 'assets/review1.png',
     review:
-      '.',
+      'Specialized in creating dynamic and visually appealing user interfaces using React, Three.js, and Tailwind CSS. Skilled in building responsive, interactive web applications with an emphasis on performance and seamless user experience..',
   },
   {
     id: 2,
     name: 'UI/UX Designer',
-    position: '.',
+    position: '5 years design experience ',
     img: 'assets/review2.png',
     review:
-      'UI/UX design. low and high fidelity designs, wireframes and prototypes',
+      'Expert in crafting intuitive and visually engaging user interfaces. Proficient in creating wireframes, low and high-fidelity prototypes, and user-centered designs for both mobile and web applications. Skilled in tools like Figma, Adobe XD, and Sketch to bring ideas to life with precision and creativity.',
   },
   {
     id: 3,
     name: 'Backend developer',
-    position: 'Project Manager at UrbanTech ',
+    position: '2 years experience  ',
     img: 'assets/review3.png',
     review:
-      'lem-solving abilities are outstanding.',
+      'Backend development with expertise in Django and Node.js. Skilled in building robust APIs, integrating with databases, and developing scalable, server-side applications. Proficient in frameworks like Next.js for seamless server-side rendering and efficient data handling.',
   },
   {
     id: 4,
     name: 'Project Management',
-    position: 'CEO of BrightStar Enterprises',
+    position: '1 year IT project management',
     img: 'assets/review4.png',
     review:
-      'nd backend dev are top-notch.',
+      'Proficient in Agile and Scrum methodologies with hands-on experience using tools like Jira, LeanKit, and Trello for efficient project tracking and collaboration. Skilled in coordinating cross-functional teams, managing timelines, and ensuring seamless project execution from inception to delivery.',
   },
 ];
 
