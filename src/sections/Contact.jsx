@@ -13,19 +13,19 @@ const Contact = () => {
           <div className="contact-details mt-12">
             <div className="contact-item">
               <span className="field-label">Email:</span>
-              <p className="text-lg text-white-600">your-email@example.com</p>
+              <p className="text-lg text-white-600">abbishek_kamak@outlook.com</p>
             </div>
 
             <div className="contact-item">
               <span className="field-label">Phone:</span>
-              <p className="text-lg text-white-600">+1 (234) 567-8901</p>
+              <p className="text-lg text-white-600">+61412037315</p>
             </div>
 
             <div className="contact-item">
               <span className="field-label">LinkedIn:</span>
               <p className="text-lg text-white-600">
-                <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" className="text-blue-500">
-                  linkedin.com/in/your-profile
+                <a href="http://www.linkedin.com/in/abbishekkamak" target="_blank" rel="noopener noreferrer" className="text-blue-500">
+                  click here to connect with me on linkedin
                 </a>
               </p>
             </div>
@@ -33,8 +33,8 @@ const Contact = () => {
             <div className="contact-item">
               <span className="field-label">GitHub:</span>
               <p className="text-lg text-white-600">
-                <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer" className="text-blue-500">
-                  github.com/your-username
+                <a href="https://github.com/aram0057" target="_blank" rel="noopener noreferrer" className="text-blue-500">
+                  clci here to view my github
                 </a>
               </p>
             </div>
