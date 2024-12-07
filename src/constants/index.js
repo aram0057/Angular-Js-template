@@ -25,7 +25,7 @@ export const clientReviews = [
   {
     id: 1,
     name: 'Frontend Dev',
-    position: 'Marketing Director at GreenLeaf',
+    position: '',
     img: 'assets/review1.png',
     review:
       '.',
@@ -33,10 +33,10 @@ export const clientReviews = [
   {
     id: 2,
     name: 'UI/UX Designer',
-    position: 'Founder of TechGear Shop',
+    position: '.',
     img: 'assets/review2.png',
     review:
-      'essional! Fantastic work.',
+      'UI/UX design. low and high fidelity designs, wireframes and prototypes',
   },
   {
     id: 3,
