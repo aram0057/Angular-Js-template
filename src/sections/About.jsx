@@ -38,7 +38,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-              I am a full-stack developer proficient in front-end (HTML, CSS, React) and back-end (Django, Node.js, ASP.NET), with experience in MySQL and PostgreSQL. I'm passionate about UI/UX design and machine learning.
+              I am a full-stack developer proficient in front-end (HTML, CSS, React,Next JS, Three JS) and back-end (Django, Node.js, ASP.NET), with experience in MySQL and PostgreSQL. I'm passionate about UI/UX design and machine learning.
               </p>
             </div>
           </div>
