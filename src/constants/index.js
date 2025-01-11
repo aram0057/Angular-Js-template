@@ -64,7 +64,7 @@ export const myProjects = [
       'GreenMelb.com uses a React front-end and a Django back-end, with Mapbox API for map integration. It also connects to a MySQL database for managing waste data and user information.',
     href: 'https://greenmelb.netlify.app/',
     texture: '/textures/project/project1.mp4',
-    logo: '/assets/project-logo1.png',
+    logo: '/assets/greenmelblogo.png',
     logoStyle: {
       backgroundColor: '#2A1816',
       border: '0.2px solid #36201D',
@@ -89,19 +89,19 @@ export const myProjects = [
       },
       {
         id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
+        name: 'Postgre SQL',
+        path: '/assets/postgre.png',
       },
     ],
   },
   {
-    title: 'MelbCycle',
+    title: 'Cycle Melb',
     desc: 'MelbCycle is a web platform designed to promote cycling in Melbourne by providing users with cycling routes, safety tips, and real-time tracking features. It aims to encourage sustainable transportation and improve the cycling experience across the city',
     subdesc:
       'MelbCycle is built using HTML, CSS, and JavaScript, and it integrates the Mapbox API for interactive mapping and navigation features.',
     href: 'https://github.com/aram0057/Personal-Projects/tree/main/melb%20cycle',
     texture: '/textures/project/project2.mp4',
-    logo: '/assets/project-logo2.png',
+    logo: '/assets/cyclelogo.png',
     logoStyle: {
       backgroundColor: '#13202F',
       border: '0.2px solid #17293E',
@@ -111,24 +111,15 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
+        name: 'HTML',
+        path: '/assets/html.png',
       },
       {
         id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
+        name: 'CSS',
+        path: 'assets/css.png',
       },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
+  
     ],
   },
   {
@@ -161,7 +152,7 @@ export const myProjects = [
       'Glora Diamonds is developed using HTML, CSS, and JavaScript, with integration of payment gateways for secure transactions. It focuses on delivering a responsive and visually appealing interface for customers.',
     href: 'https://gloradiamonds.com/',
     texture: '/textures/project/project3.mp4',
-    logo: '/assets/project-logo3.png',
+    logo: '/assets/glora.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
       background:
@@ -188,9 +179,11 @@ export const myProjects = [
       },
       {
         id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
+        name: 'RDS',
+        path: '/assets/rds.png',
       },
+
+      
     ],
   },
   
