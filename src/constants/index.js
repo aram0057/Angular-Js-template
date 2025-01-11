@@ -170,6 +170,29 @@ export const myProjects = [
       },
     ],
   },
+  {
+    title: 'UI/UX Designs',
+    desc: 'My selected figma designs based on UI/UX design principles across different platforms.', 
+    subdesc:
+      'My designs are more inclined to bold themes with minimalistic design features and focused on simplicity and functionality.',
+    href: 'https://www.figma.com/board/X8UxX8QhIR4o0qYCqosWMM/Abbishek-Figma-Designs?node-id=0-1&t=HaWzw6L2vee520EZ-1',
+    texture: '/textures/project/project2.mp4',
+    logo: '/assets/project-logo2.png',
+    logoStyle: {
+      backgroundColor: '#13202F',
+      border: '0.2px solid #17293E',
+      boxShadow: '0px 0px 60px 0px #2F6DB54D',
+    },
+    spotlight: '/assets/spotlight2.png',
+    tags: [
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/figma.png',
+      },
+      
+    ],
+  },
 
 ];
 
