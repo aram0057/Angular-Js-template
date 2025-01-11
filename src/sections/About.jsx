@@ -7,7 +7,7 @@ const About = () => {
   const [hasCopied, setHasCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(' adrian@jsmastery.pro');
+    navigator.clipboard.writeText(' abbishek_kamak@outlook.com ');
     setHasCopied(true);
 
     setTimeout(() => {
@@ -19,8 +19,8 @@ const About = () => {
     <section className="c-space my-20" id="about">
       <div className="grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-5 h-full">
         <div className="col-span-1 xl:row-span-3">
-          <div className="grid-container">
-            <img src="assets/grid1.png" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
+          <div className="grid-container ">
+            <img src="assets/grid1.png" alt="grid-1" className="rounded-3xl w-full sm:h-[276px] h-fit object-contain" />
 
             <div>
               <p className="grid-headtext">Hi, I’m Abbishek Kamak</p>
@@ -51,18 +51,18 @@ const About = () => {
                 height={326}
                 width={326}
                 backgroundColor="rgba(0, 0, 0, 0)"
-                backgroundImageOpacity={0.5}
+                backgroundImageOpacity={1.5}
                 showAtmosphere
                 showGraticules
                 globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
                 bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
-                labelsData={[{ lat: -37.8136, lng: 144.9631, text: 'Melbourne, Australia', color: 'white', size: 15 }]}
+                labelsData={[{ lat: -37.8136, lng: 144.9631, text: 'Melbourne, Australia', color: 'white', size: 45 }]}
               />
             </div>
             <div>
-              <p className="grid-headtext">Master of Information technology, Monash Univerty melbourne</p>
-              <p className="grid-subtext">Based in Melbourne, Australia </p>
-              <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+              <p className="grid-headtext">Master of Information technology, Monash University, Melbourne</p>
+              <p className="grid-subtext">2023 - 2024 </p>
+              <Button name="Based in Melbounrne, Australia" isBeam containerClass="w-full mt-10" />
             </div>
           </div>
         </div>

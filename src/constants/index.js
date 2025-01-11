@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'GreenMelb.com is a web platform focused on residential waste management in Melbourne, providing users with tools to learn about waste disposal and reduce landfill impact. It integrates interactive features like maps and educational content to promote sustainable waste practices.',
     subdesc:
       'GreenMelb.com uses a React front-end and a Django back-end, with Mapbox API for map integration. It also connects to a MySQL database for managing waste data and user information.',
-    href: 'https://www.greenmelb.com/',
+    href: 'https://greenmelb.netlify.app/',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -223,7 +223,7 @@ export const workExperiences = [
     name: 'Software web developer ',
     pos: 'Web Developer',
     duration: '2020 - 2022',
-    title: " Designed and implemented a scalable e-commerce platform to streamline retail sales and automate tax filing, increasing monthly tax report generation speed by 40% using JSON data formats. • Enhanced RESTful API functionality to integrate third-party services, reducing data processing times by 25% and improving overall system efficiency through optimized API endpoints and error handling. •  Developed a cloud-based, distributed database architecture using MongoDB, ensuring 99.9% uptime, flexible schema design, and horizontal scalability to handle 30,000+ product records. ",
+    title: "Developed a scalable e-commerce platform to streamline sales and automate tax filing, boosting monthly tax report generation by 40%. Enhanced RESTful APIs for third-party integrations, cutting data processing times by 25%. Designed a cloud-based MongoDB database with 99.9% uptime, flexible schema, and scalability for 30,000+ products. ",
     icon: '/assets/figma.svg',
     animation: 'clapping',
   },
