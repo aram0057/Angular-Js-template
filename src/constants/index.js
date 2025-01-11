@@ -132,6 +132,29 @@ export const myProjects = [
     ],
   },
   {
+    title: 'UI/UX designs',
+    desc: 'My selected UI/UX designs from Figma, showcasing my expertise in creating intuitive and visually appealing user interfaces.',
+    subdesc:
+      'Primarily a figma designer and developer, I have a deep understanding of user experience design principles and have a strong passion for creating visually stunning and intuitive interfaces.',
+    href: 'https://www.figma.com/board/X8UxX8QhIR4o0qYCqosWMM/Abbishek-Figma-Designs?node-id=0-1&t=47R8MLqUHJXrEQDK-1',
+    texture: '/textures/project/project2.mp4',
+    logo: '/assets/figma.png',
+    logoStyle: {
+      backgroundColor: '#13202F',
+      border: '0.2px solid #17293E',
+      boxShadow: '0px 0px 60px 0px #2F6DB54D',
+    },
+    spotlight: '/assets/spotlight2.png',
+    tags: [
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/figma.png',
+      },
+  
+    ],
+  },
+  {
     title: 'Glora diamonds,Chennai-India',
     desc: 'Glora Diamonds is a retail website specializing in high-quality diamond jewelry, offering a range of products with secure online payment options. The platform aims to provide an exceptional shopping experience by combining elegant design with user-friendly features.',
     subdesc:
