@@ -190,9 +190,7 @@ export const myProjects = [
         name: 'React.js',
         path: '/assets/figma.png',
       },
-      
-    ],
-  },
+  
 
 ];
 
