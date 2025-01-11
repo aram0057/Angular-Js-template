@@ -12,29 +12,29 @@ const Contact = () => {
 
           <div className="contact-details mt-12">
             <div className="contact-item">
-              <span className="field-label">Email:</span>
+              <span className="field-label text-blue-500">Email:</span>
               <p className="text-lg text-white-600">abbishek_kamak@outlook.com</p>
             </div>
 
             <div className="contact-item">
-              <span className="field-label">Phone:</span>
+              <span className="field-label text-blue-500">Phone:</span>
               <p className="text-lg text-white-600">+61412037315</p>
             </div>
 
             <div className="contact-item">
-              <span className="field-label">LinkedIn:</span>
+              <span className="field-label"></span>
               <p className="text-lg text-white-600">
                 <a href="http://www.linkedin.com/in/abbishekkamak" target="_blank" rel="noopener noreferrer" className="text-blue-500">
-                  click here to connect with me on linkedin
+                <img src="/assets/linkedin.png" alt="LinkedIn" className="inline-block h-6 w-6" />
                 </a>
               </p>
             </div>
 
             <div className="contact-item">
-              <span className="field-label">GitHub:</span>
+              <span className="field-label"></span>
               <p className="text-lg text-white-600">
                 <a href="https://github.com/aram0057" target="_blank" rel="noopener noreferrer" className="text-blue-500">
-                  clci here to view my github
+                  Click here to view my github
                 </a>
               </p>
             </div>
