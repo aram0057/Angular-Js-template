@@ -20,7 +20,7 @@ const About = () => {
       <div className="grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-5 h-full">
         <div className="col-span-1 xl:row-span-3">
           <div className="grid-container ">
-            <img src="assets/grid1.png" alt="grid-1" className="rounded-3xl w-full sm:h-[276px] h-fit object-contain" />
+            <img src="assets/grid1.png" alt="grid-1" className="rounded-3x1 w-full sm:h-[276px] h-fit object-contain" />
 
             <div>
               <p className="grid-headtext">Hi, I’m Abbishek Kamak</p>
@@ -76,6 +76,8 @@ const About = () => {
               <p className="grid-subtext">
                 I love solving problems and building things through code. Programming isn&apos;t just my
                 profession—it&apos;s my passion. I enjoy exploring new technologies, and enhancing my skills.
+                <p className="grid-subtext">
+                Lately I have been doing a Three JS course to learn about 3-D based animations.</p>
               </p>
             </div>
           </div>
