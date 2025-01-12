@@ -95,11 +95,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Cycle Melb',
-    desc: 'MelbCycle is a web platform designed to promote cycling in Melbourne by providing users with cycling routes, safety tips, and real-time tracking features. It aims to encourage sustainable transportation and improve the cycling experience across the city',
+    title: 'Andrioid Fitness App ',
+    desc: ' Designed a andrioid fitness app using Kotlin and Jetpack compose, which a user can use to track their fitness progress and set goals for themselves. ',
     subdesc:
-      'MelbCycle is built using HTML, CSS, and JavaScript, and it integrates the Mapbox API for interactive mapping and navigation features.',
-    href: 'https://github.com/aram0057/Personal-Projects/tree/main/melb%20cycle',
+      'Works with google authentication and usability principles were followed to make the app user friendly and easy to use.',
+    href: 'https://github.com/aram0057/Android-Fitness-app',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/cyclelogo.png',
     logoStyle: {
@@ -111,13 +111,13 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'HTML',
-        path: '/assets/html.png',
+        name: 'Kotlin',
+        path: '/assets/kotlin.png',
       },
       {
         id: 2,
-        name: 'CSS',
-        path: 'assets/css.png',
+        name: 'Jetpack compose',
+        path: 'assets/jetpack.png',
       },
   
     ],
@@ -139,7 +139,7 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'React.js',
+        name: 'figma',
         path: '/assets/figma.png',
       },
   
