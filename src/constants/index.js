@@ -28,7 +28,7 @@ export const clientReviews = [
     position: '3 years experience ',
     img: 'assets/frontend.png',
     review:
-      'Specialized in creating dynamic and visually appealing user interfaces using React, Three.js, and Tailwind CSS. Skilled in building responsive, interactive web applications with an emphasis on performance and seamless user experience..',
+      'Specialized in creating dynamic and visually appealing user interfaces using React, Three.js, and Tailwind CSS. Skilled in building responsive, interactive web applications with an emphasis on performance and seamless user experience.',
   },
   {
     id: 2,
@@ -95,7 +95,7 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Andrioid Fitness App ',
+    title: 'Android Fitness App ',
     desc: ' Designed a andrioid fitness app using Kotlin and Jetpack compose, which a user can use to track their fitness progress and set goals for themselves. ',
     subdesc:
       'Works with google authentication and usability principles were followed to make the app user friendly and easy to use.',
