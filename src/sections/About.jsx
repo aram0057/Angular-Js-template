@@ -62,7 +62,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Master of Information technology, Monash University, Melbourne</p>
               <p className="grid-subtext">2023 - 2024 </p>
-              <Button name="Based in Melbounrne, Australia" isBeam containerClass="w-full mt-10" />
+              <Button name="Based in Melbourne, Australia" isBeam containerClass="w-full mt-10" />
             </div>
           </div>
         </div>
